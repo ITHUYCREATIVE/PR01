@@ -1,0 +1,5 @@
+$background-color: black;
+@import "base/normalize.scss";
+@import "styles/home.scss";
+// Custom bootstrap variables must be set or imported *before* bootstrap.
+@import "bootstrap";
